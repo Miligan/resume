@@ -1,0 +1,296 @@
+body {
+	background: url(../img/340_00.jpg);
+	background-attachment: fixed;
+}
+
+
+
+
+#header {
+	border: 1px solid white;
+	border-bottom: 2px solid black;
+	margin-right: 175px; 
+	margin-left: 175px;
+	margin-top: -8px;
+	width: 1000px;
+	height: 126px;
+	background: url(../img/light.jpg);
+	box-shadow: 0 0 50px rgba(0,0,0,0.5);
+	margin: 0 auto;
+}
+
+#header h2 {
+	
+	color: black;
+	margin-left: 550px;
+	margin-top: 65px;
+	text-shadow: 1px 1px 2px lime, 0 0 1em lime;
+	font-family:"Lucida Sans Unicode", "Lucida Grande", Arial, Helvetica, sans-serif;
+	font-size: 25px;
+}
+
+#logo {
+	border: 1px solid white;
+	border-bottom: 2px solid black; 
+	width: 1000px;
+	height: 102px;
+	margin-right: 175px; 
+    margin-left: 175px;
+    box-shadow: 0 0 50px rgba(0,0,0,0.5);
+    margin: 0 auto;
+    background: url(../img/light.jpg);
+}
+#logo p {
+	margin-left: 10px;
+	font: 50px sans-serif;
+	margin-left: 80px;
+	margin-top: 53px;
+	color: black;
+	text-shadow:  1px 1px 2px lime, 0 0 1em lime;
+}
+
+
+
+
+#resume-1 {
+	border: 1px solid white;
+	margin-left: 175px;
+	width: 1000px;
+	height: 1064px;
+	box-shadow:  0 0 50px rgba(0,0,0,0.5);
+	margin: 0 auto;
+	background: url(../img/light.jpg);
+}
+#resume-1 h2 {
+	font: 23px sans-serif;
+	margin-left: 81px;
+	margin-top: 50px;
+	border: 1px solid black;
+	width: 270px;
+	height: 40px;
+	background-color: black;
+	color: white;
+	padding-top: 10px;
+	padding-left: 20px;
+	border-radius: 5px;
+	border-bottom-right-radius: 50px;
+}
+#resume-1 li {
+	font: bold 13px sans-serif;
+	list-style: none;
+	margin-left: 40px;
+	color: #6E6A6A;
+	height: 30px;
+}
+#resume-1 span {
+	margin-left: 100px;
+}
+#name li {
+	margin-top: -15px;
+	margin-left: 2px;
+}
+#address-lines li {
+	margin-left: 2px;
+	margin-top: -15px;
+	height: 10px;
+	margin-bottom: 20px;
+}
+#born li {
+	margin-left: 2px;
+	margin-top: -15px;
+}
+#phone-1 {
+	margin-left: 62px;
+	margin-top: -15px;
+}
+#phone-2 {
+	margin-top: 30px;
+}
+#email {
+	margin-left: 62px;
+	margin-top: -15px;
+}
+#email a {
+	color: #6E6A6A;
+}
+
+
+
+#education h2 {
+	margin-top: -280px;
+	margin-left: 81px;
+}
+#ipsum .ipsum {
+	font: 14px sans-serif;
+	color: black;
+	margin-left: 81px;
+	margin-right: 500px;
+	margin-top: 20px;
+}
+#dolor .dolor {
+	font: 14px sans-serif;
+	color: black;
+	margin-left: 81px;
+	margin-right: 500px;
+	margin-top: 20px;
+}
+
+
+
+
+#technical-skills h2 {
+	margin-top: -267px;
+	margin-left: 550px;
+}
+#photoshop .photoshop {
+	font: bold 20px sans-serif;
+	color: black;
+	margin-left: 550px;
+}
+#star-1 {
+	margin-left: 550px;
+	margin-top: -20px;
+}
+#star-2 {
+	margin-left: 580px;
+	margin-top: -31px;
+}
+#star-3 {
+	margin-left: 610px;
+	margin-top: -31px;
+}
+#star-4 {
+	margin-left: 640px;
+	margin-top: -31px;
+}
+#star-5 {
+	margin-left: 670px;
+	margin-top: -31px;
+}
+#star-6 {
+	margin-left: 700px;
+	margin-top: -31px;
+}
+#nullam {
+	font: 14px sans-serif;
+	color: #65767C;
+	margin-left: 550px;
+	margin-right: 100px;
+	margin-top: 20px;
+}
+#windows .windows {
+	font: bold 20px sans-serif;
+	color: black;
+	margin-left: 550px;
+	margin-top: 34px;
+}
+#none-star-1 {
+	margin-left: 700px;
+	margin-top: -31px;
+}
+#mauris {
+	font: 14px sans-serif;
+	color: #65767C;
+	margin-left: 550px;
+	margin-right: 100px;
+	margin-top: 20px;
+}
+#office .office {
+	font: bold 20px sans-serif;
+	color: black;
+	margin-left: 550px;
+	margin-top: 34px;
+}
+#none-star-2 {
+	margin-left: 670px;
+	margin-top: -31px;
+}
+#none-star-3 {
+	margin-left: 700px;
+	margin-top: -31px;
+}
+#maecenas {
+	font: 14px sans-serif;
+	color: #65767C;
+	margin-left: 550px;
+	margin-right: 100px;
+	margin-top: 20px;
+}
+
+
+
+
+#footer {
+	border: 1px solid black;
+	width: 1000px;
+	height: 200px;
+	background-color: black;
+	margin-left: 175px;
+	box-shadow: 0 0 50px rgba(0,0,0,0.5);
+	margin: 0 auto;
+}
+#address .address {
+	font: 18px sans-serif;
+	color: white;
+	margin-top: 43px;
+	margin-left: 80px;
+}
+#address-lines-2 li {
+	font: 14px sans-serif;
+	color: white;
+	list-style: none;
+	margin-left: 40px;
+	height: 20px;
+}
+#contacts .contacts {
+	font: 18px sans-serif;
+	color: white;
+	margin-top: -115px;
+	margin-left: 305px;
+}
+#contacts-line li {
+	font: 14px sans-serif;
+	color: white;
+	list-style: none;
+	margin-left: 265px;
+	height: 20px;
+}
+#social .social {
+	font: 18px sans-serif;
+	color: white;
+	margin-top: -115px;
+	margin-left: 630px;
+}
+#img {
+	margin-left: 630px;
+}
+#img-1 {
+	margin-left: 670px;
+	margin-top: -40px;	
+}
+#my-resume .my-resume {
+	font: 18px sans-serif;
+	color: white;
+	margin-top: -79px;
+	margin-left: 829px;
+}
+#footer-resume {
+	margin-left: 842px;
+	color:#fff;
+	width:90px;
+}
+#download-resume a {
+	background: url(../img/download.png) no-repeat 0 0;
+	width:80px;
+	height:80px;
+	display:block;
+}
+#download-resume a:hover {
+	background-position: 0 -80px;
+}
+
+
+
+
+
+
